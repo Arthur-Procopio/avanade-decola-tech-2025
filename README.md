@@ -76,4 +76,4 @@ classDiagram
 | PUT         | /api/v1 | /user/1           | Atualiza o usuário com o id 1           |
 | DELETE      | /api/v1 | /user/1           | Remove o usuário com o id 1             |
 
-No browser acesse <https://sdw-2023-prd.up.railway.app/swagger-ui/index.html>
+No browser acesse <avanade-decola-tech-2025-production.up.railway.app>
